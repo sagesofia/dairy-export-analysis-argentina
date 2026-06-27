@@ -38,7 +38,7 @@ Although export volume increased over the analyzed period, export value grew at 
 
 ## Dashboard Preview
 
-*(Dashboard screenshots will be added here.)*
+![Argentine Dairy Export Dashboard](EXPORTS%20DIARY%20SECTOR.%20POWER%20BI%20PROJECT.png)
 
 ## Skills Demonstrated
 
